@@ -38,8 +38,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 周霞
+Assigned Student ID: E0001
+Assigned Student Name: 陈超
 ---
 CarID: Carnum0000000000000002C
 ChassisID: Chasislnum00000002C
@@ -81,8 +81,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 何艳翔
+Assigned Student ID: E0002
+Assigned Student Name: 罗勇
 ---
 CarID: Carnum0000000000000003D
 ChassisID: Chasislnum00000003D
@@ -124,8 +124,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 高敏刚
+Assigned Student ID: E0003
+Assigned Student Name: 朱勇静
 ---
 CarID: Carnum0000000000000004E
 ChassisID: Chasislnum00000004E
@@ -167,8 +167,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 罗勇
+Assigned Student ID: E0004
+Assigned Student Name: 何秀英
 ---
 CarID: Carnum0000000000000005F
 ChassisID: Chasislnum00000005F
@@ -210,8 +210,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 黄超
+Assigned Student ID: E0005
+Assigned Student Name: 朱伟
 ---
 CarID: Carnum0000000000000006G
 ChassisID: Chasislnum00000006G
@@ -253,8 +253,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 王丽华
+Assigned Student ID: E0006
+Assigned Student Name: 赵平
 ---
 CarID: Carnum0000000000000007H
 ChassisID: Chasislnum00000007H
@@ -296,8 +296,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 孙磊洋
+Assigned Student ID: E0007
+Assigned Student Name: 陈霞
 ---
 CarID: Carnum0000000000000008I
 ChassisID: Chasislnum00000008I
@@ -339,8 +339,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 何洋平
+Assigned Student ID: E0008
+Assigned Student Name: 刘洋翔
 ---
 CarID: Carnum0000000000000009J
 ChassisID: Chasislnum00000009J
@@ -382,8 +382,8 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 杨伟
+Assigned Student ID: E0009
+Assigned Student Name: 胡洋强
 ---
 CarID: Carnum0000000000000010K
 ChassisID: Chasislnum00000010K
@@ -425,6 +425,6 @@ Display Model: super
 Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
-Assigned Student ID: 
-Assigned Student Name: 吴霞
+Assigned Student ID: E0010
+Assigned Student Name: 黄明
 ---

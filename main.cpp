@@ -93,8 +93,8 @@ vector<Car> generateCars(int numCars) {
         // 创造学生
         Student student;
         stringstream ss;
-        ss << "Stu" << setw(4) << setfill('0') << i;
-
+        ss << "E" << setw(4) << setfill('0') << i;
+        student.setStudentID(ss.str());
 
         // 随机姓列表
         vector<string> surnames = {
