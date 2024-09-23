@@ -1,0 +1,15 @@
+# ninja log v6
+41	1316	7488118245064027	CMakeFiles/CarProgram02.dir/Wheel.cpp.obj	2d15e15d4f786b0b
+84	1360	7488118245486956	CMakeFiles/CarProgram02.dir/AGX.cpp.obj	7b2a5c1208cbcdd
+107	1478	7488118245720252	CMakeFiles/CarProgram02.dir/Camera.cpp.obj	ff8bd5fa512d111d
+130	1497	7488118245951099	CMakeFiles/CarProgram02.dir/Lidar.cpp.obj	a4fafef08e849c1d
+159	1599	7488118246236926	CMakeFiles/CarProgram02.dir/Gyroscope.cpp.obj	b88fa154091379d9
+214	1601	7488118246785771	CMakeFiles/CarProgram02.dir/Battery.cpp.obj	5d271f1943e03f97
+182	1602	7488118246463717	CMakeFiles/CarProgram02.dir/Display.cpp.obj	430e50457c4717b2
+62	1739	7488118245275767	CMakeFiles/CarProgram02.dir/Chassis.cpp.obj	3fe50738e88eb8af
+247	1823	7488118247121195	CMakeFiles/CarProgram02.dir/Car.cpp.obj	3c3b9a3a001c61ee
+22	1909	7488118244875919	CMakeFiles/CarProgram02.dir/Student.cpp.obj	d46ee68e1a5f73d3
+2	3991	7488118244665097	CMakeFiles/CarProgram02.dir/main.cpp.obj	14732a589f471b89
+3993	4425	7488118284584033	CarProgram02.exe	aea207b10d409fe0
+6	2592	7488119099148665	CMakeFiles/CarProgram02.dir/main.cpp.obj	14732a589f471b89
+2592	2949	7488119125005145	CarProgram02.exe	aea207b10d409fe0
